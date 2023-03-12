@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+    <title>Web Design</title>
+</head>
+<body style="background-color:white;">
+     <img src="download2.jpg" alt="Snow" style="height:60%;width:100%;">
+     <center><h1 style="color:black;">STAYBRIDGE SUITES DUBAI FINANCIAL CENTRE</h1></center>
+     <p>
+     <center>
+     <b>
+     <i>This delivery for the Army may possibly be the world’s first operational high density swarming Unmanned Aerial System induction for military applications.</i></b>
+     </center>
+     </p>
+     <center><b>How swarm drones work</b></center>
+     
+<p><b>Staybridge Suites Dubai Financial Centre is located on Sheikh Zayed Road opposite the Dubai International Financial Centre (DIFC) & Dubai World Trade & Exhibition Centre and in close proximity to The Dubai Mall and the world’s tallest building Burj Khalifa. The countless leisure, dining, shopping, and entertainment attractions of Downtown, City Walk, La Mer, and Jumeirah Beach are a short drive away or can be easily reached via Dubai Financial Centre metro station located right outside our doorstep. The 48-story tower sets an eye-catching feature to Dubai’s iconic skyline. Guests have an option between one, two, or three-bedroom suites and studios that blend contemporary design with spacious layouts. Many of our suites enjoy spectacular views of the city or the sea. Every unit features its own fully-equipped kitchen and interconnecting suites offer greater flexibility for families or small groups traveling together. The Dubai Financial Centre metro station is right in front of the hotel which provides easy transportation access to the city's top destinations.</b></p>
+
+     <hr width="100%" 
+        color="red" 
+        size="10" 
+        align="center"> 
+     <h7 style="color:red;"><center><b>Read More This ↓</b></center></h7>
+     <a href="https://theprint.in/defence/army-gets-its-first-set-of-offensive-swarm-drone-system-iaf-next/1368508/"><center>This is a link</center></a>
+     <h5>(Edited by Karteeswar kp)</h5>
+     <h6>Also read:<a href="https://theprint.in/defence/china-has-spy-balloons-india-has-aerostats-but-iafs-had-mixed-results-from-16-yr-old-project/1361419/">This is a link</a></h6>
+     <hr width="100%" 
+        color="yellow" 
+        size="1" 
+        align="center"> 
+
+</body>
+</html>
